@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MemoryGame
+Comment=Launch Memory Game 1.0
+Exec=java -jar /usr/local/bin/YGames/Memory/Memory_Game-1.0.jar
+Icon=/usr/local/bin/YGames/Memory/lion.jpg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Game;
+                              
